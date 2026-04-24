@@ -152,8 +152,9 @@ DevIncome Toolkit 完整版
 | 平台 | 链接 | 状态 |
 |------|------|------|
 | GitHub | [yjp6548/devincome-toolkit](https://github.com/yjp6548/devincome-toolkit) | ✅ 在线 |
-| 掘金 | [从写代码到赚收入](https://juejin.cn/post/7632075186566414388) | ✅ 已发布 |
 | 落地页 | [devincome-toolkit](https://yjp6548.github.io/devincome-toolkit/) | ✅ 在线 |
+| 掘金 | 待重新发布 | 🔄 进行中 |
+| CSDN | 待发布 | 📝 准备中 |
 
 ---
 
@@ -199,12 +200,13 @@ A: 我们不承诺收益。但跟着30天计划走完，至少能拿到第一个
 
 - [x] 🏗️ 项目启动
 - [x] 📖 免费章节发布（前3章）
-- [x] 📝 掘金文章发布
+- [ ] 📝 掘金文章重新发布
 - [x] 🌐 落地页上线
 - [ ] ⭐ GitHub 100 Star
 - [ ] 🏪 首批10位付费用户
 - [ ] 📚 掘金小册上架
-- [ ] 📊 CSDN/知乎同步分发
+- [ ] 📊 CSDN文章发布
+- [ ] 📊 知乎文章发布
 
 ---
 
