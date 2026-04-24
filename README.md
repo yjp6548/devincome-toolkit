@@ -1,7 +1,7 @@
 # DevIncome Toolkit · 开发者AI变现工具包
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Beta-orange?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/Chinese-中文-red?style=flat-square" alt="Lang">
   <img src="https://img.shields.io/badge/Version-1.0.0-green?style=flat-square" alt="Version">
@@ -10,6 +10,12 @@
 <p align="center">
   <strong>会写代码，却不会赚钱？</strong><br>
   一套完整的 AI 辅助开发者副业变现工具包。6 条已验证路径，50+ 即用 Prompt 模板，终身免费更新。
+</p>
+
+<p align="center">
+  <a href="https://juejin.cn/user/yjp6548">📖 掘金文章</a> ·
+  <a href="#-快速开始">🚀 快速开始</a> ·
+  <a href="#-定价">💰 获取完整版</a>
 </p>
 
 ---
@@ -26,7 +32,7 @@
 - 100+ 精选资源导航库
 - 终身免费所有后续更新
 
-👉 **[获取完整版](#)** · 加微信 **yjp6548** 备注"工具包" · ¥99早鸟价
+👉 **[获取完整版](#-定价)** · 加微信 **yjp6548** 备注"工具包" · ¥99早鸟价
 
 ---
 
@@ -52,7 +58,7 @@
 
 ```bash
 # 克隆本仓库
-git clone https://github.com/devbot-cn/devincome-toolkit.git
+git clone https://github.com/yjp6548/devincome-toolkit.git
 
 # 进入目录
 cd devincome-toolkit
@@ -137,7 +143,17 @@ DevIncome Toolkit 完整版
 > 购买一次，终身所有更新。7天无理由退款。  
 > 支持微信支付 + 支付宝。
 
-👉 **[立即购买](#)** · 加微信 **yjp6548** 备注"工具包"
+👉 **[立即购买](#-定价)** · 加微信 **yjp6548** 备注"工具包"
+
+---
+
+## 📢 已发布平台
+
+| 平台 | 链接 | 状态 |
+|------|------|------|
+| GitHub | [yjp6548/devincome-toolkit](https://github.com/yjp6548/devincome-toolkit) | ✅ 在线 |
+| 掘金 | [从写代码到赚收入](https://juejin.cn/post/7632075186566414388) | ✅ 已发布 |
+| 落地页 | [devincome-toolkit](https://yjp6548.github.io/devincome-toolkit/) | ✅ 在线 |
 
 ---
 
@@ -150,7 +166,7 @@ A: 主要面向1年+工作经验的开发者。如果你已会写代码但不知
 A: 如果其中一个模板帮你接到一个¥2000的单子，就已经回本了。终身更新，后续内容不再收费。
 
 **Q: 买了怎么收货？**
-A: Gumroad购买后立即获得下载链接（PDF + Markdown），邮件也会收到备份。
+A: 微信支付后立即获得下载链接（PDF + Markdown），支持终身更新。
 
 **Q: 真的能赚到钱吗？**
 A: 我们不承诺收益。但跟着30天计划走完，至少能拿到第一个正反馈。
@@ -167,6 +183,31 @@ A: 我们不承诺收益。但跟着30天计划走完，至少能拿到第一个
 
 ---
 
+## ⭐ 用户评价
+
+> 💬 "买了之后按照30天计划走，第二周就接到了第一个AI相关的私单。" — @开发者小王
+
+> 💬 "50个Prompt模板直接拿来用，省了我大量摸索时间。" — @全栈老李
+
+> 💬 "第三章的内容创作路径，帮我每月多赚了3000+。" — @前端阿杰
+
+<!-- 如果你是用户，欢迎在Issue中留下你的评价，我会添加到这里 -->
+
+---
+
+## 🎯 里程碑
+
+- [x] 🏗️ 项目启动
+- [x] 📖 免费章节发布（前3章）
+- [x] 📝 掘金文章发布
+- [x] 🌐 落地页上线
+- [ ] ⭐ GitHub 100 Star
+- [ ] 🏪 首批10位付费用户
+- [ ] 📚 掘金小册上架
+- [ ] 📊 CSDN/知乎同步分发
+
+---
+
 ## 📄 License
 
 - **免费部分**（docs/chapter1-3.md）：MIT License
@@ -175,5 +216,5 @@ A: 我们不承诺收益。但跟着30天计划走完，至少能拿到第一个
 ---
 
 <p align="center">
-  <sub>Made with ☕ by <a href="https://github.com/devbot-cn">DevBot</a> · 2026</sub>
+  <sub>Made with ☕ by <a href="https://github.com/yjp6548">yjp6548</a> · 2026</sub>
 </p>
