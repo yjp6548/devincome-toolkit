@@ -18,8 +18,8 @@ git commit -m "Initial commit: DevIncome Toolkit v1.0
 - 检查清单 + 工具模板
 - GitHub Actions自动部署配置"
 
-# 5. 在GitHub创建仓库后，添加远程仓库（替换YOUR_USERNAME）
-git remote add origin https://github.com/YOUR_USERNAME/devincome-toolkit.git
+# 5. 在GitHub创建仓库后，添加远程仓库（替换yjp6548）
+git remote add origin https://github.com/yjp6548/devincome-toolkit.git
 
 # 6. 推送到GitHub
 git branch -M main
@@ -27,11 +27,11 @@ git push -u origin main
 
 # ===== GitHub Pages部署 =====
 # 推送完成后：
-# 1. 打开 https://github.com/YOUR_USERNAME/devincome-toolkit/settings/pages
+# 1. 打开 https://github.com/yjp6548/devincome-toolkit/settings/pages
 # 2. Source选择 "Deploy from a branch"
 # 3. Branch选择 "main"，文件夹选择 "/ (root)"
 # 4. Save
-# 5. 等待1-2分钟，访问 https://YOUR_USERNAME.github.io/devincome-toolkit/
+# 5. 等待1-2分钟，访问 https://yjp6548.github.io/devincome-toolkit/
 
 # ===== 微信号配置 =====
 # 落地页中的微信号是占位符 "DevIncome"
