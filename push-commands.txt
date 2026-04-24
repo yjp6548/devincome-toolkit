@@ -1,0 +1,41 @@
+# GitHub推送命令（在PowerShell中执行）
+
+# 1. 进入仓库目录
+cd c:\Users\Administrator\WorkBuddy\Claw\github\devincome-toolkit
+
+# 2. 初始化git仓库
+git init
+
+# 3. 添加所有文件
+git add .
+
+# 4. 首次提交
+git commit -m "Initial commit: DevIncome Toolkit v1.0
+
+- 完整README + 免费章节(chapter1-3)
+- 落地页(index.html)
+- 50+ Prompt模板
+- 检查清单 + 工具模板
+- GitHub Actions自动部署配置"
+
+# 5. 在GitHub创建仓库后，添加远程仓库（替换YOUR_USERNAME）
+git remote add origin https://github.com/YOUR_USERNAME/devincome-toolkit.git
+
+# 6. 推送到GitHub
+git branch -M main
+git push -u origin main
+
+# ===== GitHub Pages部署 =====
+# 推送完成后：
+# 1. 打开 https://github.com/YOUR_USERNAME/devincome-toolkit/settings/pages
+# 2. Source选择 "Deploy from a branch"
+# 3. Branch选择 "main"，文件夹选择 "/ (root)"
+# 4. Save
+# 5. 等待1-2分钟，访问 https://YOUR_USERNAME.github.io/devincome-toolkit/
+
+# ===== 微信号配置 =====
+# 落地页中的微信号是占位符 "DevIncome"
+# 你需要：
+# 1. 创建一个专门用于销售的微信号
+# 2. 把index.html中所有 "DevIncome" 替换成你的真实微信号
+# 3. git add . && git commit -m "Update WeChat ID" && git push
